@@ -1,27 +1,9 @@
-# test_youtube_dl_front
+## Intro
 
-> A Vue.js project
+A simple vuejs 2 app to display video data in table format
 
-## Build Setup
+## Install
+yarn install
 
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run unit tests
-npm run unit
-
-# run all tests
-npm test
-```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## Run
+yarn dev, visit http://localhost:8080
